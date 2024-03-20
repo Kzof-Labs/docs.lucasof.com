@@ -4,6 +4,13 @@
     {
       "transactions": [],
       "nonce": 0,
+      "timestamp": "2024-03-20T20:38:43.4499121-03:00",
+      "previousBlockHash": "",
+      "hash": "j7K1vZSlVOOUuy2It8IyytG0HOZBkL31hptjvjHdSHw="
+    },
+    {
+      "transactions": [],
+      "nonce": 0,
       "timestamp": "2024-03-20T20:26:48.3928213-03:00",
       "previousBlockHash": "",
       "hash": "j7K1vZSlVOOUuy2It8IyytG0HOZBkL31hptjvjHdSHw="
@@ -254,9 +261,24 @@
       "timestamp": "2024-03-20T20:28:32.9793821-03:00",
       "previousBlockHash": "000ZrIBae/5yIq54UVozSakoKUnVPfk/sKSv2oVGk8g=",
       "hash": "000aLEqiLdKQrCPY/NVFFAsJC0quCzTsQFLake8k1B8="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 13507,
+      "timestamp": "2024-03-20T20:38:50.1771336-03:00",
+      "previousBlockHash": "000aLEqiLdKQrCPY/NVFFAsJC0quCzTsQFLake8k1B8=",
+      "hash": "0002RZtEJhmFo+Mi2moIxppnsTR0bNG5xyGe0yF+tr4="
     }
   ],
-  "coinsMined": 1600,
+  "coinsMined": 1700,
   "minerReward": 100,
   "pendingTransactions": []
 }
