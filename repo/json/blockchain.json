@@ -1,0 +1,165 @@
+{
+  "difficulty": 3,
+  "blocks": [
+    {
+      "transactions": [],
+      "nonce": 0,
+      "timestamp": "2024-03-20T10:29:43.5576291-03:00",
+      "previousBlockHash": "",
+      "hash": "j7K1vZSlVOOUuy2It8IyytG0HOZBkL31hptjvjHdSHw="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 2696,
+      "timestamp": "2024-03-20T10:29:45.9056113-03:00",
+      "previousBlockHash": "j7K1vZSlVOOUuy2It8IyytG0HOZBkL31hptjvjHdSHw=",
+      "hash": "00MNdklAtUTQz9YZd/tgGLL11u+jwPTNjRuGLM/ousE="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 10295,
+      "timestamp": "2024-03-20T10:29:46.018705-03:00",
+      "previousBlockHash": "00MNdklAtUTQz9YZd/tgGLL11u+jwPTNjRuGLM/ousE=",
+      "hash": "003mMDo8+EWFzseTdPUZlcd32Td8t9ysDOEW1U5HMGI="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 400,
+      "timestamp": "2024-03-20T10:29:46.0369395-03:00",
+      "previousBlockHash": "003mMDo8+EWFzseTdPUZlcd32Td8t9ysDOEW1U5HMGI=",
+      "hash": "00M89LabjEmCracAmFxqj9M5mN6mq5wQEFGsyjhl+sw="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 506,
+      "timestamp": "2024-03-20T10:29:46.0428438-03:00",
+      "previousBlockHash": "00M89LabjEmCracAmFxqj9M5mN6mq5wQEFGsyjhl+sw=",
+      "hash": "00/gagaXAbWoDfhDuBLpPY01Q4RGZp595u68coREpWQ="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 423,
+      "timestamp": "2024-03-20T10:29:46.0484492-03:00",
+      "previousBlockHash": "00/gagaXAbWoDfhDuBLpPY01Q4RGZp595u68coREpWQ=",
+      "hash": "00xa6D5kvGB4Gx+Y4/1tvHzuBsOjgxQ7hvhNROycFTc="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 11536,
+      "timestamp": "2024-03-20T10:29:46.0539754-03:00",
+      "previousBlockHash": "00xa6D5kvGB4Gx+Y4/1tvHzuBsOjgxQ7hvhNROycFTc=",
+      "hash": "00bQ/OQzhRYlhVWUA74MNLJ7IFPc3YiCtHKxmX/eu3I="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 2213,
+      "timestamp": "2024-03-20T10:29:46.0690663-03:00",
+      "previousBlockHash": "00bQ/OQzhRYlhVWUA74MNLJ7IFPc3YiCtHKxmX/eu3I=",
+      "hash": "00yN54D/b8fZSF7ocqmmGoBKi6niNeau0voTqUUysis="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 7670,
+      "timestamp": "2024-03-20T10:29:46.0750214-03:00",
+      "previousBlockHash": "00yN54D/b8fZSF7ocqmmGoBKi6niNeau0voTqUUysis=",
+      "hash": "002982hjcEX0YnyUpEGRCbcFfoUxFKe0D+WFh4RPOAA="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 8482,
+      "timestamp": "2024-03-20T10:29:46.0853374-03:00",
+      "previousBlockHash": "002982hjcEX0YnyUpEGRCbcFfoUxFKe0D+WFh4RPOAA=",
+      "hash": "00PgI9S+KKzTAfuq97A9TyZHJpf3pVst3NK1coXLKNI="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "satoshi1337",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "dVoiF9XREpfZfAdRnWQWrQLk8CA/TRDUl8FL3c8l7t4="
+        }
+      ],
+      "nonce": 245248,
+      "timestamp": "2024-03-20T10:29:46.0964374-03:00",
+      "previousBlockHash": "00PgI9S+KKzTAfuq97A9TyZHJpf3pVst3NK1coXLKNI=",
+      "hash": "000QZPPfZc3k+RcPUphitBvxgD0jiTXVXseLLs3j8UU="
+    }
+  ],
+  "coinsMined": 1000,
+  "minerReward": 100,
+  "pendingTransactions": []
+}
