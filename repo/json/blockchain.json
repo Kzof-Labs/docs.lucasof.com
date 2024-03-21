@@ -1,6 +1,13 @@
 {
-  "difficulty": 3,
+  "difficulty": 4,
   "blocks": [
+    {
+      "transactions": [],
+      "nonce": 0,
+      "timestamp": "2024-03-20T21:13:25.5268846-03:00",
+      "previousBlockHash": "",
+      "hash": "j7K1vZSlVOOUuy2It8IyytG0HOZBkL31hptjvjHdSHw="
+    },
     {
       "transactions": [],
       "nonce": 0,
@@ -276,9 +283,174 @@
       "timestamp": "2024-03-20T20:38:50.1771336-03:00",
       "previousBlockHash": "000aLEqiLdKQrCPY/NVFFAsJC0quCzTsQFLake8k1B8=",
       "hash": "0002RZtEJhmFo+Mi2moIxppnsTR0bNG5xyGe0yF+tr4="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 26134,
+      "timestamp": "2024-03-20T21:13:31.4066079-03:00",
+      "previousBlockHash": "0002RZtEJhmFo+Mi2moIxppnsTR0bNG5xyGe0yF+tr4=",
+      "hash": "000yk02Vo1pdzZJP5azywHwVLs9ogBqk65dC1Z1Yy50="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 446983,
+      "timestamp": "2024-03-20T21:13:33.5661759-03:00",
+      "previousBlockHash": "000yk02Vo1pdzZJP5azywHwVLs9ogBqk65dC1Z1Yy50=",
+      "hash": "000JM+SyRoNPmbKK+PM/YRVZZpnBj/IWs/w3Is/E9rc="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 628766,
+      "timestamp": "2024-03-20T21:13:34.5903221-03:00",
+      "previousBlockHash": "000JM+SyRoNPmbKK+PM/YRVZZpnBj/IWs/w3Is/E9rc=",
+      "hash": "000bL/T782cm0IFOYfjUytAwIZH0YLWs9EEZcWaiP7I="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 346082,
+      "timestamp": "2024-03-20T21:13:35.6862971-03:00",
+      "previousBlockHash": "000bL/T782cm0IFOYfjUytAwIZH0YLWs9EEZcWaiP7I=",
+      "hash": "000F/aMcDloYHl/Jx+tYWXK7mQ1rhth+QeY5VqXwyHM="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 89717,
+      "timestamp": "2024-03-20T21:13:36.4862134-03:00",
+      "previousBlockHash": "000F/aMcDloYHl/Jx+tYWXK7mQ1rhth+QeY5VqXwyHM=",
+      "hash": "000FzLg5LFjQ3lpyD3IZZ0/dBXUr/Bh+aXt8BCLsyys="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 233547,
+      "timestamp": "2024-03-20T21:13:37.2463324-03:00",
+      "previousBlockHash": "000FzLg5LFjQ3lpyD3IZZ0/dBXUr/Bh+aXt8BCLsyys=",
+      "hash": "0001bi9hGWEp95BaFdZk1kS8dQCI3W5nmPq7T9b1enw="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 530085,
+      "timestamp": "2024-03-20T21:13:37.9672852-03:00",
+      "previousBlockHash": "0001bi9hGWEp95BaFdZk1kS8dQCI3W5nmPq7T9b1enw=",
+      "hash": "000QAAyhaz4MuxY5jpcMnLoUYUF8wycQmpQ3ywDATRs="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 298065,
+      "timestamp": "2024-03-20T21:13:38.9823064-03:00",
+      "previousBlockHash": "000QAAyhaz4MuxY5jpcMnLoUYUF8wycQmpQ3ywDATRs=",
+      "hash": "000pJqiycEwrj2CVpuQStP9MQStO6NJtNzwkPCpiOaY="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 47107,
+      "timestamp": "2024-03-20T21:13:39.7662567-03:00",
+      "previousBlockHash": "000pJqiycEwrj2CVpuQStP9MQStO6NJtNzwkPCpiOaY=",
+      "hash": "000HF3IF+xyL0XxfSNyqNEpxfvWmr3u6kL35532vst0="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 13539,
+      "timestamp": "2024-03-20T21:13:40.4946052-03:00",
+      "previousBlockHash": "000HF3IF+xyL0XxfSNyqNEpxfvWmr3u6kL35532vst0=",
+      "hash": "000twCZrxHlWJXhLUVzWKm9HV2FWrVI633nwM0AlOPk="
+    },
+    {
+      "transactions": [
+        {
+          "sender": "",
+          "recipient": "Z+WYlKM3jBg4OpmlJ9tZNcen8dzPaL8BAW7orKBBDxM=",
+          "amount": 100.0,
+          "fee": 0.0,
+          "hash": "fknxQ3zKshf6iWiVJaFVhLbRpcVwMmINnqB1xEvm9N4="
+        }
+      ],
+      "nonce": 61620887,
+      "timestamp": "2024-03-20T21:13:41.4786036-03:00",
+      "previousBlockHash": "000twCZrxHlWJXhLUVzWKm9HV2FWrVI633nwM0AlOPk=",
+      "hash": "0000buEqKY/v0Hk/gqYRDL/U1EzhSG4nn+YsB7P9YEM="
     }
   ],
-  "coinsMined": 1700,
+  "coinsMined": 2800,
   "minerReward": 100,
   "pendingTransactions": []
 }
